@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_7/7.14/file.cpp
+file.hpp
+/home/adrian/Dokumenty/stephen_prata/rozdział_7/7.14/file.hpp
+iostream
+-
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_7/7.14/file.hpp
+string
+-
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_7/7.14/topfive.cpp
+iostream
+-
+string
+-
+file.hpp
+/home/adrian/Dokumenty/stephen_prata/rozdział_7/7.14/file.hpp
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Program1.dir/vegmews.cpp.o CMakeFiles/Program1.dir/home/adrian/Dokumenty/stephen_prata/rozdział_12/12.2/stringbad.cpp.o  -o Program1 

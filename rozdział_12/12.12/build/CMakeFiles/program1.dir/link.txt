@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/program1.dir/bank.cpp.o CMakeFiles/program1.dir/home/adrian/Dokumenty/stephen_prata/rozdział_12/12.11/queue.cpp.o  -o program1 

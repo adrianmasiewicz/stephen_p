@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.16/stonewt.h
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.18/stone.cpp
+iostream
+-
+../11.16/stonewt.h
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.16/stonewt.h
+

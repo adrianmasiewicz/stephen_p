@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/execName.dir/usestock2.cpp.o CMakeFiles/execName.dir/home/adrian/Dokumenty/stephen_prata/rozdział_10/10.8/stock20.cpp.o  -o execName 

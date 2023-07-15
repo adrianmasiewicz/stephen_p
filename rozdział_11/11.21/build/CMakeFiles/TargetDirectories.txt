@@ -1,0 +1,3 @@
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.21/build/CMakeFiles/rebuild_cache.dir
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.21/build/CMakeFiles/edit_cache.dir
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.21/build/CMakeFiles/Program1.dir

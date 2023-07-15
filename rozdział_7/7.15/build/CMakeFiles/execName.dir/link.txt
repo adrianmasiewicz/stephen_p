@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/execName.dir/arrobj.cpp.o  -o execName 

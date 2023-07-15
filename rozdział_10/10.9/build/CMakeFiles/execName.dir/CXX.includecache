@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_10/10.7/stock20.h
+string
+-
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_10/10.8/stock20.cpp
+../10.7/stock20.h
+/home/adrian/Dokumenty/stephen_prata/rozdział_10/10.7/stock20.h
+iostream
+-
+cstring
+-
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_10/10.9/usestock2.cpp
+iostream
+-
+../10.7/stock20.h
+/home/adrian/Dokumenty/stephen_prata/rozdział_10/10.7/stock20.h
+

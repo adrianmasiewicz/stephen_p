@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_13/13.7/brass.h
+string
+-
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_13/13.8/brass.cpp
+../13.7/brass.h
+/home/adrian/Dokumenty/stephen_prata/rozdział_13/13.7/brass.h
+iostream
+-
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_13/13.9/usebrass1.cpp
+iostream
+-
+../13.7/brass.h
+/home/adrian/Dokumenty/stephen_prata/rozdział_13/13.7/brass.h
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_12/12.4/string1.h
+iostream
+-
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_12/12.6/sayings1.cpp
+iostream
+-
+../12.4/string1.h
+/home/adrian/Dokumenty/stephen_prata/rozdział_12/12.4/string1.h
+

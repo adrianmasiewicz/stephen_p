@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Program1.dir/stone.cpp.o CMakeFiles/Program1.dir/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.17/stonewt.cpp.o  -o Program1 

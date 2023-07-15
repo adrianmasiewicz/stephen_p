@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Program.dir/usetime0.cpp.o CMakeFiles/Program.dir/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.2/mytime0.cpp.o  -o Program 

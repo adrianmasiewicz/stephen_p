@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.19/stonewt1.h
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.20/stonewt1.cpp
+../11.19/stonewt1.h
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.19/stonewt1.h
+iostream
+-
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.21/stone1.cpp
+iostream
+-
+../11.19/stonewt1.h
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.19/stonewt1.h
+

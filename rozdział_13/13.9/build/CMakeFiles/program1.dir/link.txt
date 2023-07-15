@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/program1.dir/usebrass1.cpp.o CMakeFiles/program1.dir/home/adrian/Dokumenty/stephen_prata/rozdział_13/13.8/brass.cpp.o  -o program1 

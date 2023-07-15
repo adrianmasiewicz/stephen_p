@@ -1,0 +1,4 @@
+The make and model: Audi a4 b6
+Year: 2006
+Starting price: 19700.00
+Current price: 17986.10

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Program.dir/stacker.cpp.o CMakeFiles/Program.dir/home/adrian/Dokumenty/stephen_prata/rozdział_10/10.11/stack.cpp.o  -o Program 

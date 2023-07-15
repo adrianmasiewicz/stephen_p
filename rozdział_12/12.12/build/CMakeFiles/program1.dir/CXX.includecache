@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_12/12.10/queue.h
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_12/12.12/bank.cpp
+cstdlib
+-
+ctime
+-
+iostream
+-
+../12.10/queue.h
+/home/adrian/Dokumenty/stephen_prata/rozdział_12/12.10/queue.h
+

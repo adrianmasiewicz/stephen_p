@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.13/vect.h
+iostream
+-
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.14/vect.cpp
+../11.13/vect.h
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.13/vect.h
+cmath
+-
+
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.15/randwalk.cpp
+cstdlib
+-
+ctime
+-
+iostream
+-
+../11.13/vect.h
+/home/adrian/Dokumenty/stephen_prata/rozdział_11/11.13/vect.h
+

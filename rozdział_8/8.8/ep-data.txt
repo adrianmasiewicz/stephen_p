@@ -1,0 +1,7 @@
+Focal length of the lens: 1000 mm
+f of the eyepieceMagnification
+        10.0            100
+        20.0             50
+        30.0             33
+        40.0             25
+        50.0             20
